@@ -1,0 +1,9 @@
+*.jpg
+*.png
+*.zip
+*.html
+Images for report/*
+saved_models/*
+Submission/*
+images/*
+resized/*
