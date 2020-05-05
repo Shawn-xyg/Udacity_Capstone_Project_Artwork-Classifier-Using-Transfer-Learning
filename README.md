@@ -4,7 +4,7 @@ The Best Artwork of All Time data can be found here:
 
 https://www.kaggle.com/ikarus777/best-artworks-of-all-time
 
-Required Libraries:
+## Installations
 
 ```
 tqdm==4.40.2
